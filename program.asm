@@ -24,4 +24,4 @@
                 syscall
 	cambia:
         	li $t2, 0
-        	j while
+        	j exit
